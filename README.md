@@ -3,6 +3,9 @@
 # Mert Uzun — Proje Portföyü
 
 *Kocaeli Üniversitesi Elektronik ve Haberleşme Mühendisliği öğrencisi olarak geliştirdiğim donanım ve gömülü sistem projeleri*
+## 📎 Portfolyo
+
+[📄 Mühendislik Portfolyosunu Görüntüle](Mert_Uzun_Muhendislik_Portfolyosu.pdf)
 
 </div>
 

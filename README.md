@@ -19,7 +19,7 @@
 
 ## 🗂️ Projeler
 
-### ⚡ [4in1 ESC Kartı — TÜBİTAK 2209-A](../4in1-ESC)
+### ⚡ [4in1 ESC Kartı — TÜBİTAK 2209-A](https://github.com/mertuzun41/4in1-ESC-tubitak-2209)
 > İHA sistemleri için 4 BLDC motoru bağımsız kontrol edebilen yüksek akım kapasiteli ESC devresi
 
 `Altium Designer` `STM32` `Güç Elektroniği` `EMI/EMC`

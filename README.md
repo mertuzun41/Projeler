@@ -5,7 +5,7 @@
 *Kocaeli Üniversitesi Elektronik ve Haberleşme Mühendisliği öğrencisi olarak geliştirdiğim donanım ve gömülü sistem projeleri*
 ## 📎 Portfolyo
 
-[📄 Mühendislik Portfolyosunu Görüntüle](Mert - Uzun Muhendislik Portfolyosu.pdf)
+[📄 Mühendislik Portfolyosunu Görüntüle](Mert Uzun - Mühendislik Portfolyosu.pdf)
 
 </div>
 

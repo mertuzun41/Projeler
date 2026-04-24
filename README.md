@@ -9,7 +9,7 @@ geliştirdiğim okul ve kişisel projeler.
 |-------|----------|--------------|
 | [4in1-ESC-Kart](../4in1-ESC) | TÜBİTAK 2209-A destekli İHA ESC devresi | Altium Designer, STM32 |
 | [Motor-Saglik-Izleme](https://github.com/mertuzun41/motor-saglik-izleme) | IoT tabanlı kestirimci bakım sistemi | ESP32-S3, C++, Web |
-| [Gimbal-Kontrol](../gimbal) | STM32 tabanlı kamera stabilizasyon kartı | STM32, IMU, C |
+| [Gimbal-Kontrol](https://github.com/mertuzun41/Gimbal-Kontrolcu-Karti) | STM32 tabanlı kamera stabilizasyon kartı | STM32, IMU, C |
 
 ## Hakkımda
 

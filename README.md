@@ -3,6 +3,7 @@
 # Mert Uzun — Proje Portföyü
 
 *Kocaeli Üniversitesi Elektronik ve Haberleşme Mühendisliği öğrencisi olarak geliştirdiğim donanım ve gömülü sistem projeleri*
+
 ## 📎 Portfolyo
 
 [📄 Mühendislik Portfolyosunu Görüntüle](Mert_Uzun_Mühendislik_Portfolyosu.pdf)
@@ -40,6 +41,20 @@
 > 3 eksenli gimbal motorlarını bağımsız süren, MPU6050 IMU entegreli STM32 kontrol kartı
 
 `STM32` `C` `IMU` `Motor Sürücü` `PCB Tasarımı`
+
+---
+
+### ♻️ [Görüntü İşleme Tabanlı Konveyör Bant Sistemi](https://github.com/mertuzun41/Konveyor-Bant)
+> Kamera ile atıkları sınıflandıran ve ESP32-S3 kontrollü servo mekanizmasıyla uygun bölmelere ayıran akıllı konveyör bant sistemi
+
+`ESP32-S3` `Jetson Orin Nano` `Python` `Görüntü İşleme` `UART`
+
+---
+
+### 🔧 [Buck Converter Tamiri ve Analizi](https://github.com/mertuzun41/Buck-Converter-Tamiri)
+> Arızalı buck converter devresinin ölçüm, hata tespiti, bileşen analizi ve onarım sürecini içeren güç elektroniği çalışması
+
+`Buck Converter` `Güç Elektroniği` `PCB Analizi` `Hata Tespiti` `Elektronik Tamir`
 
 ---
 

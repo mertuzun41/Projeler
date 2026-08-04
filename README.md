@@ -4,9 +4,15 @@
 
 *Kocaeli Üniversitesi Elektronik ve Haberleşme Mühendisliği öğrencisi olarak geliştirdiğim donanım ve gömülü sistem projeleri*
 
-## 📎 Portfolyo
+## 📎 Belgeler
 
-[📄 Mühendislik Portfolyosunu Görüntüle](Mert_Uzun_Muhendislik_Portfolyo.pdf)
+[📄 Mühendislik Portföyünü Görüntüle](Mert_Uzun_Muhendislik_Portfolyo.pdf)  
+[📥 Mühendislik Portföyünü İndir](Mert_Uzun_Muhendislik_Portfolyo.pdf?raw=1)
+
+<br>
+
+[📄 CV'yi Görüntüle](Mert_Uzun_CV.pdf)  
+[📥 CV'yi İndir](Mert_Uzun_CV.pdf?raw=1)
 
 </div>
 
@@ -23,36 +29,41 @@
 
 ## 🗂️ Projeler
 
-### ⚡ [4in1 ESC Kartı — TÜBİTAK 2209-A](https://github.com/mertuzun41/4in1-ESC-tubitak-2209)
-> İHA sistemleri için 4 BLDC motoru bağımsız kontrol edebilen yüksek akım kapasiteli ESC devresi
+### ⚡ [4-in-1 ESC Kartı — TÜBİTAK 2209-A](https://github.com/mertuzun41/4in1-ESC-tubitak-2209)
 
-`Altium Designer` `STM32` `Güç Elektroniği` `EMI/EMC`
+> İHA sistemleri için dört BLDC motoru bağımsız olarak kontrol edebilen, entegre güç dağıtımı ve akım ölçümü özelliklerine sahip yüksek akım kapasiteli ESC kartı.
+
+`Altium Designer` `AT32F421` `Güç Elektroniği` `EMI/EMC`
 
 ---
 
 ### 🔍 [Kestirimci Motor Sağlık İzleme Sistemi](https://github.com/mertuzun41/motor-saglik-izleme)
-> ESP32-S3 tabanlı IoT sistemi; titreşim, akım/voltaj ve sıcaklık verilerini gerçek zamanlı izler
+
+> Titreşim, akım, gerilim ve sıcaklık verilerini gerçek zamanlı izleyen ESP32-S3 tabanlı kestirimci bakım ve IoT sistemi.
 
 `ESP32-S3` `C++` `PCB Tasarımı` `WebSocket` `IoT`
 
 ---
 
 ### 🎥 [STM32 Tabanlı Gimbal Kontrol Kartı](https://github.com/mertuzun41/Gimbal-Kontrolcu-Karti)
-> 3 eksenli gimbal motorlarını bağımsız süren, MPU6050 IMU entegreli STM32 kontrol kartı
+
+> Üç eksenli gimbal motorlarını bağımsız olarak süren, MPU6050 IMU entegreli STM32 tabanlı kontrol kartı.
 
 `STM32` `C` `IMU` `Motor Sürücü` `PCB Tasarımı`
 
 ---
 
 ### ♻️ [Görüntü İşleme Tabanlı Konveyör Bant Sistemi](https://github.com/mertuzun41/Konveyor-Bant)
-> Kamera ile atıkları sınıflandıran ve ESP32-S3 kontrollü servo mekanizmasıyla uygun bölmelere ayıran akıllı konveyör bant sistemi
+
+> Kamera ile atıkları sınıflandıran ve ESP32-S3 kontrollü servo mekanizmasıyla uygun bölmelere ayıran akıllı konveyör bant sistemi.
 
 `ESP32-S3` `Jetson Orin Nano` `Python` `Görüntü İşleme` `UART`
 
 ---
 
 ### 🔧 [Buck Converter Tamiri ve Analizi](https://github.com/mertuzun41/Buck-Converter-Tamiri)
-> Arızalı buck converter devresinin ölçüm, hata tespiti, bileşen analizi ve onarım sürecini içeren güç elektroniği çalışması
+
+> Arızalı bir buck converter devresinin ölçüm, hata tespiti, bileşen analizi ve onarım aşamalarını içeren güç elektroniği çalışması.
 
 `Buck Converter` `Güç Elektroniği` `PCB Analizi` `Hata Tespiti` `Elektronik Tamir`
 
@@ -62,6 +73,6 @@
 
 **Mert Uzun** • Kocaeli Üniversitesi • Elektronik ve Haberleşme Mühendisliği
 
-[<img src="https://img.icons8.com/color/48/linkedin.png" width="40" height="40"/>](https://www.linkedin.com/in/mert-uzun-b74459308)
+[LinkedIn](https://www.linkedin.com/in/mert-uzun-b74459308)
 
 </div>

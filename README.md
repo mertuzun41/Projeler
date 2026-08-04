@@ -6,7 +6,7 @@
 
 ## 📎 Portfolyo
 
-[📄 Mühendislik Portfolyosunu Görüntüle](Mert_Uzun_Mühendislik_Portfolyo.pdf)
+[📄 Mühendislik Portfolyosunu Görüntüle](Mert_Uzun_Muhendislik_Portfolyo.pdf)
 
 </div>
 

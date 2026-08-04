@@ -20,7 +20,7 @@
 
 ## 🙋 Hakkımda
 
-- 🎓 Kocaeli Üniversitesi — Elektronik ve Haberleşme Mühendisliği (3. Sınıf)
+- 🎓 Kocaeli Üniversitesi — Elektronik ve Haberleşme Mühendisliği (4. Sınıf)
 - ✈️ Sarsılmaz İHA Takımı — Elektronik Kaptanı
 - 🔧 PCB Tasarımı | Gömülü Sistemler | İHA Teknolojileri
 - 📧 mertuzun2004@gmail.com

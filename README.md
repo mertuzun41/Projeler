@@ -25,6 +25,7 @@ Elektronik Kaptanı olarak görev aldığım Sarsılmaz İHA Takımı'nın tanı
 
 | Proje | Odak | Mevcut kapsam |
 |---|---|---|
+| [Filament Kalınlığı Ölçüm Sensör Kartı](https://github.com/mertuzun41/Filament-Kalinligi-Sensor-Karti) | ESP32-C3, Hall sensörü, 12 bit ADC ve RS485 | PCB tasarımı, üretimi ve komponent dizgisi tamamlandı; kart çalışır duruma getirildi |
 | [4-in-1 ESC - TÜBİTAK 2209-A](https://github.com/mertuzun41/4in1-ESC-tubitak-2209) | 6S LiPo, dört BLDC motor, entegre 5 V/12 V regülasyon ve akım ölçümü | Tasarım ve geliştirme aşamasında; ön şematik ve proje raporu |
 | [Kestirimci Motor Sağlık İzleme](https://github.com/mertuzun41/motor-saglik-izleme) | ESP32-S3, sensör verileri, motor kontrolü ve WebSocket arayüzü | PCB üretimi, donanım-yazılım entegrasyonu ve prototip testleri gerçekleştirildi |
 | [STM32 Gimbal Kontrol Kartı](https://github.com/mertuzun41/Gimbal-Kontrolcu-Karti) | STM32F103, MPU6050 ve üç eksene ait sürücü katları | Kart üretildi ve gimbal sistemine entegre edilerek çalıştırıldı |

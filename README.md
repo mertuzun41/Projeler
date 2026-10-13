@@ -11,6 +11,16 @@ Kocaeli Üniversitesi Elektronik ve Haberleşme Mühendisliği 4. sınıf öğre
 | CV | [PDF](Mert_Uzun_CV.pdf) | [İndir](Mert_Uzun_CV.pdf?raw=1) |
 | Mühendislik projeleri portfolyosu | [PDF](Mert_Uzun_Muhendislik_Portfolyo.pdf) | [İndir](Mert_Uzun_Muhendislik_Portfolyo.pdf?raw=1) |
 
+## Sarsılmaz İHA Takımı
+
+Elektronik Kaptanı olarak görev aldığım Sarsılmaz İHA Takımı'nın tanıtım sunumu; takım yapısı, yarışma geçmişi, geliştirilen araçlar ve mekanik/elektronik çalışmalarına genel bakış sunar.
+
+| Belge | Görüntüle | İndir |
+|---|---|---|
+| Sarsılmaz İHA Takımı tanıtım sunumu | [PDF](Sarsilmaz_IHA_Tanitim_Sunumu.pdf) | [İndir](Sarsilmaz_IHA_Tanitim_Sunumu.pdf?raw=1) |
+
+
+
 ## Projeler
 
 | Proje | Odak | Mevcut kapsam |

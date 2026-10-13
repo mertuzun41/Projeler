@@ -1,3 +1,5 @@
+**Türkçe** | [English](README.en.md)
+
 # Mert Uzun | Mühendislik Projeleri
 
 Elektronik donanım, güç elektroniği, gömülü sistemler ve İHA aviyonikleri alanlarında geliştirdiğim projelerin portfolyosu.
